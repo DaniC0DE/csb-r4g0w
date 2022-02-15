@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://danic0de.github.io/csb-r4g0w/static/css/main.db73c90f.chunk.css",
+    "main.js": "https://danic0de.github.io/csb-r4g0w/static/js/main.5bb26a15.chunk.js",
+    "main.js.map": "https://danic0de.github.io/csb-r4g0w/static/js/main.5bb26a15.chunk.js.map",
+    "runtime-main.js": "https://danic0de.github.io/csb-r4g0w/static/js/runtime-main.2b4f0524.js",
+    "runtime-main.js.map": "https://danic0de.github.io/csb-r4g0w/static/js/runtime-main.2b4f0524.js.map",
+    "static/js/2.b998c7d3.chunk.js": "https://danic0de.github.io/csb-r4g0w/static/js/2.b998c7d3.chunk.js",
+    "static/js/2.b998c7d3.chunk.js.map": "https://danic0de.github.io/csb-r4g0w/static/js/2.b998c7d3.chunk.js.map",
+    "index.html": "https://danic0de.github.io/csb-r4g0w/index.html",
+    "static/css/main.db73c90f.chunk.css.map": "https://danic0de.github.io/csb-r4g0w/static/css/main.db73c90f.chunk.css.map",
+    "static/js/2.b998c7d3.chunk.js.LICENSE.txt": "https://danic0de.github.io/csb-r4g0w/static/js/2.b998c7d3.chunk.js.LICENSE.txt",
+    "static/media/sort.3cbc2a21.svg": "https://danic0de.github.io/csb-r4g0w/static/media/sort.3cbc2a21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4f0524.js",
+    "static/js/2.b998c7d3.chunk.js",
+    "static/css/main.db73c90f.chunk.css",
+    "static/js/main.5bb26a15.chunk.js"
+  ]
+}
